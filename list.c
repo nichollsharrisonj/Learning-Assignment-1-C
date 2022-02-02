@@ -24,7 +24,6 @@ int main (){
    float sum = 0;
 
    for(int  i = 0 ; i < list_length ; i++ ) {
-      //printf("%d\n", rand() % max);
       vals[i] = rand() % max;
       sum += vals[i];
    }
