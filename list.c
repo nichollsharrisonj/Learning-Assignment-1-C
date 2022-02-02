@@ -34,7 +34,7 @@ int main (){
    }
 
    float mean = sum / list_length;
-   printf("\nThe mean is: \n %.2f", mean);
+   printf("\nThe mean is: \n %.2f\n", mean);
 
    return 0;
 }
